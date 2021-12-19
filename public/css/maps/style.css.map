@@ -1,0 +1,1 @@
+{"version":3,"sources":["style.scss","style.css"],"names":[],"mappings":"AAIA;EACE,eAAA;ACHF;;ADMA;EACE,eAAA;ACHF","file":"../style.css","sourcesContent":["@charset \"UTF-8\";\n\n@use \"variables\" as vars;\n\nhtml {\n  font-size: 100%;\n}\n\nimg {\n  max-width: 100%;\n}\n","html {\n  font-size: 100%;\n}\n\nimg {\n  max-width: 100%;\n}"]}
